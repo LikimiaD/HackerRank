@@ -1,4 +1,4 @@
-n,m = input().split(' ')
+n,m = input().split(' ') #skipping these inputs
 my_array = list(input().split(' '))
 A = set(input().split(' '))
 B = set(input().split(' '))
