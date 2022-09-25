@@ -1,0 +1,15 @@
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\bin\Debug\net6.0\a_very_big_sum.exe
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\bin\Debug\net6.0\a_very_big_sum.deps.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\bin\Debug\net6.0\a_very_big_sum.runtimeconfig.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\bin\Debug\net6.0\a_very_big_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\bin\Debug\net6.0\a_very_big_sum.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\a_very_big_sum.csproj.AssemblyReference.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\a_very_big_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\a_very_big_sum.AssemblyInfoInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\a_very_big_sum.AssemblyInfo.cs
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\a_very_big_sum.csproj.CoreCompileInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\a_very_big_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\refint\a_very_big_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\a_very_big_sum.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\a_very_big_sum.genruntimeconfig.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\a_very_big_sum\obj\Debug\net6.0\ref\a_very_big_sum.dll

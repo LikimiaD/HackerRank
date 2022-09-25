@@ -1,0 +1,15 @@
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\bin\Debug\net6.0\plus_minus.exe
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\bin\Debug\net6.0\plus_minus.deps.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\bin\Debug\net6.0\plus_minus.runtimeconfig.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\bin\Debug\net6.0\plus_minus.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\bin\Debug\net6.0\plus_minus.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\plus_minus.csproj.AssemblyReference.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\plus_minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\plus_minus.AssemblyInfoInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\plus_minus.AssemblyInfo.cs
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\plus_minus.csproj.CoreCompileInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\plus_minus.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\refint\plus_minus.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\plus_minus.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\plus_minus.genruntimeconfig.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\plus_minus\obj\Debug\net6.0\ref\plus_minus.dll

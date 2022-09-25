@@ -1,0 +1,15 @@
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\bin\Debug\net6.0\simple_array_sum.exe
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\bin\Debug\net6.0\simple_array_sum.deps.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\bin\Debug\net6.0\simple_array_sum.runtimeconfig.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\bin\Debug\net6.0\simple_array_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\bin\Debug\net6.0\simple_array_sum.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\simple_array_sum.csproj.AssemblyReference.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\simple_array_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\simple_array_sum.AssemblyInfoInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\simple_array_sum.AssemblyInfo.cs
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\simple_array_sum.csproj.CoreCompileInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\simple_array_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\refint\simple_array_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\simple_array_sum.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\simple_array_sum.genruntimeconfig.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\simple_array_sum\obj\Debug\net6.0\ref\simple_array_sum.dll

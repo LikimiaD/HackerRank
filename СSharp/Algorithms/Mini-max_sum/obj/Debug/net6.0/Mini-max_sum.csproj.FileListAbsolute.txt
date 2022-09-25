@@ -1,0 +1,15 @@
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\bin\Debug\net6.0\Mini-max_sum.exe
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\bin\Debug\net6.0\Mini-max_sum.deps.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\bin\Debug\net6.0\Mini-max_sum.runtimeconfig.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\bin\Debug\net6.0\Mini-max_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\bin\Debug\net6.0\Mini-max_sum.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\Mini-max_sum.csproj.AssemblyReference.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\Mini-max_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\Mini-max_sum.AssemblyInfoInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\Mini-max_sum.AssemblyInfo.cs
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\Mini-max_sum.csproj.CoreCompileInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\Mini-max_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\refint\Mini-max_sum.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\Mini-max_sum.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\Mini-max_sum.genruntimeconfig.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\Mini-max_sum\obj\Debug\net6.0\ref\Mini-max_sum.dll

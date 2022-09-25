@@ -1,0 +1,15 @@
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\bin\Debug\net6.0\compare_the_triplets.exe
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\bin\Debug\net6.0\compare_the_triplets.deps.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\bin\Debug\net6.0\compare_the_triplets.runtimeconfig.json
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\bin\Debug\net6.0\compare_the_triplets.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\bin\Debug\net6.0\compare_the_triplets.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\compare_the_triplets.csproj.AssemblyReference.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\compare_the_triplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\compare_the_triplets.AssemblyInfoInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\compare_the_triplets.AssemblyInfo.cs
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\compare_the_triplets.csproj.CoreCompileInputs.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\compare_the_triplets.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\refint\compare_the_triplets.dll
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\compare_the_triplets.pdb
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\compare_the_triplets.genruntimeconfig.cache
+C:\Users\likim\source\repos\LikimiaD\HackerRank\СSharp\Algorithms\compare_the_triplets\obj\Debug\net6.0\ref\compare_the_triplets.dll
